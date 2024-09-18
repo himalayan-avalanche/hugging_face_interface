@@ -4,7 +4,7 @@ Accessing Hugging Face Models.
 
 Setup.
 
-1. To use models, one may have to register and get access to. For instance to access Llamma model, one need to get access to from meta. It takes about an hour to get access to models.
+1. To use models, one may have to register and get access to. For instance to access Llamma model, one need to get access to from meta. It takes about an hour to get access to models. Here is the link to register: https://www.llama.com/llama-downloads/
 2. Generate API Key aka HF tokens. Go to : https://huggingface.co/settings/tokens
 3. Next login using this token.
    In bash type:
